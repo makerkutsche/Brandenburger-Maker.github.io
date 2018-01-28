@@ -8,12 +8,12 @@ Zu den Brandenburger Maker gehören bis jetzt:
 
 <table>
   <tr>
-    <td> [Technische Hochschule Brandenburg][thb] </td>
-    <td> [![][fcb-logo]][fcb] </td>
-    <td> [cleverinside][cleverinside] </td>
-    <td> [Die machBar][machBar] </td>
-    <td> [![][cdp-logo]][cdp] </td>
-    <td> [![][vinn-lab-logo]][vinn-lab] </td>
+    <td><a href="https://zhq.th-brandenburg.de/"    >Technische Hochschule Brandenburg</a></td>
+    <td><a href="http://fablab-cottbus.de"          ><img src="logos/FabLab-Logo-Cottbus-farbig.png" alt="FabLab Cottbus"></a></td>
+    <td><a href="http://jfvnet.de/cleverinside/"    >cleverinside</a></td>
+    <td><a href="https://machbar-potsdam.de/">Die machBar</a></td>
+    <td><a href="https://CoderDojoPotsdam.github.io"><img src="logos/CoderDojo-Potsdam.svg" alt="CoderDojo Potsdam"></a></td>
+    <td><a href="http://vinnlab.th-wildau.de/"      ><img src="logos/ViNNLabLogo_hoch_ThinkMakeShare.png" alt="ViNN:Lab" /></a></td>
   </tr>
 </table>
 
@@ -36,6 +36,3 @@ Zu den Brandenburger Maker gehören bis jetzt:
 [cleverinside]: http://jfvnet.de/cleverinside/
 [cdp]: https://CoderDojoPotsdam.github.io/
 [fcb]: http://fablab-cottbus.de
-[vinn-lab-logo]: logos/ViNNLabLogo_hoch_ThinkMakeShare.png
-[cdp-logo]: logos/CoderDojo-Potsdam.svg
-[fcb-logo]: logos/FabLab-Logo-Cottbus-farbig.png
