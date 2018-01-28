@@ -29,6 +29,11 @@ Zu den Brandenburger Makern gehören bis jetzt:
 - Wildau
   - [ViNN:Lab][vinn-lab] (Patrick Grabasch)
 
+## Treffen
+
+Wir treffen uns von Zeit zu Zeit und bereiten z.B. ein Treffen auf der Maker Faire Berlin 2018 vor.
+Dort haben wir einen Stand. Komm gern vorbei und lerne uns kennnen.
+
 [join-mailing-list]: mailto:&#109;&#097;&#106;&#111;&#114;&#100;&#111;&#109;&#111;&#064;&#102;&#097;&#098;&#108;&#097;&#098;&#045;&#099;&#111;&#116;&#116;&#098;&#117;&#115;&#046;&#100;&#101;?subject=subscribe&#32;brandenburger-fablab-cottbus-de&body=subscribe&#32;brandenburger-fablab-cottbus-de
 [machBar]: https://machbar-potsdam.de/
 [vinn-lab]: http://vinnlab.th-wildau.de/
