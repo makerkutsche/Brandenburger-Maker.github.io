@@ -4,7 +4,7 @@ Ziel der Brandenburger Maker ist, ein Brandenburger Netzwerk von regionalen Make
 Bist du ein Maker in Brandenburg bzw. Teil eines Netzwerks oder Fab-Labs und magst mitmachen?
 Du kannst der [Mailingliste beitreten][join-mailing-list].
 
-Zu den Brandenburger Maker gehören bis jetzt:
+Zu den Brandenburger Makern gehören bis jetzt:
 
 <table>
   <tr>
