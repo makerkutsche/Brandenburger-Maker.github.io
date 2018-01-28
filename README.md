@@ -6,11 +6,16 @@ Du kannst der [Mailingliste][mailing-list] beitreten.
 
 Zu den Brandenburger Maker gehören bis jetzt:
 
-
-| [Technische Hochschule Brandenburg][thb] |  [![][fcb-logo]][fcb] | [cleverinside][cleverinside] | [Die machBar][machBar] | [![][cdp-logo]][cdp] | [![][vinn-lab-logo]][vinn-lab] |
-| --- | --- | --- | --- | --- | --- |
-
-
+<table>
+  <tr>
+    <td> [Technische Hochschule Brandenburg][thb] </td>
+    <td> [![][fcb-logo]][fcb] </td>
+    <td> [cleverinside][cleverinside] </td>
+    <td> [Die machBar][machBar] </td>
+    <td> [![][cdp-logo]][cdp] </td>
+    <td> [![][vinn-lab-logo]][vinn-lab] </td>
+  </tr>
+</table>
 
 - Brandenburg
   - [Technische Hochschule Brandenburg][thb]
