@@ -1,8 +1,8 @@
 # Brandenburger Maker
 
 Ziel der Brandenburger Maker ist, ein Brandenburger Netzwerk von regionalen Makerspaces und Aktiven aufzubauen, um in Zukunft Projekte gemeinsam zu starten und Interessen zu vertreten.
-Bist du ein Maker in Brandenburg, Teil eines Netzwerks oder Fab-Labs und magst mitmachen?
-Du kannst der [Mailingliste][mailing-list] beitreten.
+Bist du ein Maker in Brandenburg bzw. Teil eines Netzwerks oder Fab-Labs und magst mitmachen?
+Du kannst der [Mailingliste beitreten][join-mailing-list].
 
 Zu den Brandenburger Maker gehören bis jetzt:
 
@@ -29,7 +29,7 @@ Zu den Brandenburger Maker gehören bis jetzt:
 - Wildau
   - [ViNN:Lab][vinn-lab] (Patrick Grabasch)
 
-[mailing-list]: mailto:&#098;&#114;&#097;&#110;&#100;&#101;&#110;&#098;&#117;&#114;&#103;&#101;&#114;&#045;&#108;&#105;&#115;&#116;&#064;&#102;&#097;&#098;&#108;&#097;&#098;&#045;&#099;&#111;&#116;&#116;&#098;&#117;&#115;&#046;&#100;&#101;
+[join-mailing-list]: mailto:&#109;&#097;&#106;&#111;&#114;&#100;&#111;&#109;&#111;&#064;&#102;&#097;&#098;&#108;&#097;&#098;&#045;&#099;&#111;&#116;&#116;&#098;&#117;&#115;&#046;&#100;&#101;?subject=subscribe&#32;brandenburger-fablab-cottbus-de&body=subscribe&#32;brandenburger-fablab-cottbus-de
 [machBar]: https://machbar-potsdam.de/
 [vinn-lab]: http://vinnlab.th-wildau.de/
 [thb]: https://zhq.th-brandenburg.de/
