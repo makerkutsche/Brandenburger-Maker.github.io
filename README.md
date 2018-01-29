@@ -12,7 +12,7 @@ Zu den Brandenburger Makern gehören bis jetzt:
     <td><a href="http://fablab-cottbus.de"          ><img src="logos/FabLab-Logo-Cottbus-farbig.png" alt="FabLab Cottbus"></a></td>
     <td><a href="http://jfvnet.de/cleverinside/"    ><img src="logos/Technikschule-cleverinside.gif" alt="Maker Kutsche"></a></td>
     <td><a href="https://makerkutsche.de/"          ><img src="logos/maker-kutsche-logobeta.png" alt="Maker Kutsche"></a></td>
-    <td><a href="https://machbar-potsdam.de/">Die machBar</a></td>
+    <td><a href="https://machbar-potsdam.de/"><img src="logos/wissenschaftsladen-potsdam.jpg" alt="Wissenschaftsladen Potsdam"></a></td>
     <td><a href="https://CoderDojoPotsdam.github.io"><img src="logos/CoderDojo-Potsdam.svg" alt="CoderDojo Potsdam"></a></td>
     <td><a href="http://vinnlab.th-wildau.de/"      ><img src="logos/ViNNLabLogo_hoch_ThinkMakeShare.png" alt="ViNN:Lab" /></a></td>
   </tr>
@@ -26,7 +26,7 @@ Zu den Brandenburger Makern gehören bis jetzt:
   - [cleverinside][cleverinside] (Frank Thorhauer)
   - [Maker Kutsche][makerkutsche] (Frank Thorhauer)
 - Potsdam
-  - [Die machBar][machBar] (Martin Koll)
+  - [Die machBar][machBar] des [Wissenschaftsladens Potsdam][wilap] (Martin Koll)
   - das [CoderDojo am HPI][cdp] (Nicco Kunzmann)
 - Wildau
   - [ViNN:Lab][vinn-lab] (Patrick Grabasch)
@@ -44,3 +44,4 @@ Dort haben wir einen Stand. Komm gern vorbei und lerne uns kennnen.
 [cdp]: https://CoderDojoPotsdam.github.io/
 [fcb]: http://fablab-cottbus.de
 [makerkutsche]: https://makerkutsche.de/
+[wilap]: http://www.wissenschaftsladen-potsdam.de/
