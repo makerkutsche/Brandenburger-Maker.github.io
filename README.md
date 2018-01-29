@@ -1,6 +1,9 @@
 # Netzwerk Brandenburger offener Werkstätten
 
 Mit der Initiative möchten wir den Austausch in Brandenburg fördern, um gemeinsame Projekte umsetzen zu können - Veranstaltungen, die auf das Angebot und die Themen aufmerksam machen oder Projekte, die uns finanzielle Unterstützung ermöglichen.
+
+## Mitmachen 
+
 Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks werden? Über unsere [Mailingliste][join-mailing-list] erfährst du wann wir uns Treffen. Um beizutreten, schicke einfach die Mail ab, die sich nach dem Klick auf den Link öffnet. 
 
 ## Teil des Netzwerks sind:
