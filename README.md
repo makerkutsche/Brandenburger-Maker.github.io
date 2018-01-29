@@ -10,7 +10,8 @@ Zu den Brandenburger Makern gehören bis jetzt:
   <tr>
     <td><a href="https://zhq.th-brandenburg.de/"    >Technische Hochschule Brandenburg</a></td>
     <td><a href="http://fablab-cottbus.de"          ><img src="logos/FabLab-Logo-Cottbus-farbig.png" alt="FabLab Cottbus"></a></td>
-    <td><a href="http://jfvnet.de/cleverinside/"    >cleverinside</a></td>
+    <td><a href="http://jfvnet.de/cleverinside/"    ><img src="logos/Technikschule-cleverinside.gif" alt="Maker Kutsche"></a></td>
+    <td><a href="https://makerkutsche.de/"          ><img src="logos/maker-kutsche-logobeta.png" alt="Maker Kutsche"></a></td>
     <td><a href="https://machbar-potsdam.de/">Die machBar</a></td>
     <td><a href="https://CoderDojoPotsdam.github.io"><img src="logos/CoderDojo-Potsdam.svg" alt="CoderDojo Potsdam"></a></td>
     <td><a href="http://vinnlab.th-wildau.de/"      ><img src="logos/ViNNLabLogo_hoch_ThinkMakeShare.png" alt="ViNN:Lab" /></a></td>
@@ -22,7 +23,8 @@ Zu den Brandenburger Makern gehören bis jetzt:
 - Cottbus
   - [FabLab Cottbus][fcb] (Maximilian Voigt)
 - Lübbenau
-  - [cleverinside][cleverinside]
+  - [cleverinside][cleverinside] (Frank Thorhauer)
+  - [Maker Kutsche][makerkutsche] (Frank Thorhauer)
 - Potsdam
   - [Die machBar][machBar] (Martin Koll)
   - das [CoderDojo am HPI][cdp] (Nicco Kunzmann)
@@ -41,3 +43,4 @@ Dort haben wir einen Stand. Komm gern vorbei und lerne uns kennnen.
 [cleverinside]: http://jfvnet.de/cleverinside/
 [cdp]: https://CoderDojoPotsdam.github.io/
 [fcb]: http://fablab-cottbus.de
+[makerkutsche]: https://makerkutsche.de/
