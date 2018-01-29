@@ -1,10 +1,9 @@
-# Brandenburger Maker
+# Netzwerk Brandenburger offener Werkstätten
 
-Ziel der Brandenburger Maker ist, ein Brandenburger Netzwerk von regionalen Makerspaces und Aktiven aufzubauen, um in Zukunft Projekte gemeinsam zu starten und Interessen zu vertreten.
-Bist du ein Maker in Brandenburg bzw. Teil eines Netzwerks oder Fab-Labs und magst mitmachen?
-Du kannst der [Mailingliste beitreten][join-mailing-list].
+Mit der Initiative möchten wir den Austausch in Brandenburg fördern, um gemeinsame Projekte umsetzen zu können - Veranstaltungen, die auf das Angebot und die Themen aufmerksam machen oder Projekte, die uns finanzielle Unterstützung ermöglichen.
+Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks werden? Über unsere [Mailingliste][join-mailing-list] erfährst du wann wir uns Treffen. Um beizutreten, schicke einfach die Mail ab, die sich nach dem Klick auf den Link öffnet. 
 
-Zu den Brandenburger Makern gehören bis jetzt:
+## Teil des Netzwerks sind:
 
 <table>
   <tr>
@@ -30,11 +29,6 @@ Zu den Brandenburger Makern gehören bis jetzt:
   - das [CoderDojo am HPI][cdp] (Nicco Kunzmann)
 - Wildau
   - [ViNN:Lab][vinn-lab] (Patrick Grabasch)
-
-## Treffen
-
-Wir treffen uns von Zeit zu Zeit und bereiten z.B. ein Treffen auf der Maker Faire Berlin 2018 vor.
-Dort haben wir einen Stand. Komm gern vorbei und lerne uns kennnen.
 
 [join-mailing-list]: mailto:&#109;&#097;&#106;&#111;&#114;&#100;&#111;&#109;&#111;&#064;&#102;&#097;&#098;&#108;&#097;&#098;&#045;&#099;&#111;&#116;&#116;&#098;&#117;&#115;&#046;&#100;&#101;?subject=subscribe&#32;brandenburger-fablab-cottbus-de&body=subscribe&#32;brandenburger-fablab-cottbus-de
 [machBar]: https://machbar-potsdam.de/
