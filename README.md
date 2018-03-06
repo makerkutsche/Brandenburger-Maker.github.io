@@ -6,7 +6,7 @@ Mit der Initiative möchten wir den Austausch in Brandenburg fördern, um gemein
 
 Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks werden? Über unsere [Mailingliste][join-mailing-list] erfährst du wann wir uns Treffen. Um beizutreten, schicke einfach die Mail ab, die sich nach dem Klick auf den Link öffnet. 
 
-## Teil des Netzwerks sind:
+## Teil des Verbunds sind:
 
 <table>
   <tr>
@@ -14,14 +14,14 @@ Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks 
     <td width="12%"><a href="http://fablab-cottbus.de"          ><img src="logos/FabLab-Logo-Cottbus-farbig.png" alt="FabLab Cottbus"></a></td>
     <td width="12%"><a href="http://jfvnet.de/cleverinside/"    ><img src="logos/Technikschule-cleverinside.gif" alt="Maker Kutsche"></a></td>
     <td width="12%"><a href="https://makerkutsche.de/"          ><img src="logos/maker-kutsche-logobeta.png" alt="Maker Kutsche"></a></td>
-    <td width="12%"><a href="https://machbar-potsdam.de/"><img src="logos/wissenschaftsladen-potsdam.jpg" alt="Wissenschaftsladen Potsdam"></a></td>
+    <td width="12%"><a href="https://machbar-potsdam.de/"       ><img src="logos/wissenschaftsladen-potsdam.jpg" alt="Wissenschaftsladen Potsdam"></a></td>
     <td width="12%"><a href="https://CoderDojoPotsdam.github.io"><img src="logos/CoderDojo-Potsdam.svg" alt="CoderDojo Potsdam"></a></td>
     <td width="12%"><a href="http://vinnlab.th-wildau.de/"      ><img src="logos/ViNNLabLogo_hoch_ThinkMakeShare.png" alt="ViNN:Lab" /></a></td>
   </tr>
 </table>
 
 - Brandenburg
-  - [Technische Hochschule Brandenburg][thb]
+  - [Technische Hochschule Brandenburg][thb] (Lisa Jakobi)
 - Cottbus
   - [FabLab Cottbus][fcb] (Maximilian Voigt)
 - Lübbenau
