@@ -4,7 +4,7 @@ Mit der Initiative möchten wir den Austausch in Brandenburg fördern, um gemein
 
 ## Mitmachen 
 
-Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks werden? Über unsere [Mailingliste][join-mailing-list] erfährst du wann wir uns Treffen. Um beizutreten, schicke einfach die Mail ab, die sich nach dem Klick auf den Link öffnet. 
+Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks werden? Über unsere [Mailingliste][join-mailing-list] erfährst du wann wir uns treffen und was wir besprechen. Um beizutreten, schicke einfach die Mail ab, die sich nach dem Klick auf den Link öffnet. Du bist willkommen und kannst dich uns gern vorstellen.
 
 ## Teil des Verbunds sind:
 
@@ -21,7 +21,7 @@ Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks 
 </table>
 
 - Brandenburg
-  - [Technische Hochschule Brandenburg][thb] (Lisa Jakobi)
+  - [Technische Hochschule Brandenburg][thb] (Lisa Jakobi, Steffen Rotsch)
 - Cottbus
   - [FabLab Cottbus][fcb] (Maximilian Voigt)
 - Lübbenau
