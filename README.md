@@ -10,13 +10,13 @@ Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks 
 
 <table>
   <tr>
-    <td><a href="https://zhq.th-brandenburg.de/"    ><img src="logos/THB_Werkstatt_Logo_CMYK_pfade.svg" alt="Technische Hochschule Brandenburg"></a></td>
-    <td><a href="http://fablab-cottbus.de"          ><img src="logos/FabLab-Logo-Cottbus-farbig.png" alt="FabLab Cottbus"></a></td>
-    <td><a href="http://jfvnet.de/cleverinside/"    ><img src="logos/Technikschule-cleverinside.gif" alt="Maker Kutsche"></a></td>
-    <td><a href="https://makerkutsche.de/"          ><img src="logos/maker-kutsche-logobeta.png" alt="Maker Kutsche"></a></td>
-    <td><a href="https://machbar-potsdam.de/"><img src="logos/wissenschaftsladen-potsdam.jpg" alt="Wissenschaftsladen Potsdam"></a></td>
-    <td><a href="https://CoderDojoPotsdam.github.io"><img src="logos/CoderDojo-Potsdam.svg" alt="CoderDojo Potsdam"></a></td>
-    <td><a href="http://vinnlab.th-wildau.de/"      ><img src="logos/ViNNLabLogo_hoch_ThinkMakeShare.png" alt="ViNN:Lab" /></a></td>
+    <td><a href="https://zhq.th-brandenburg.de/"    ><img width="12%" src="logos/THB_Werkstatt_Logo_CMYK_pfade.svg" alt="Technische Hochschule Brandenburg"></a></td>
+    <td><a href="http://fablab-cottbus.de"          ><img width="12%" src="logos/FabLab-Logo-Cottbus-farbig.png" alt="FabLab Cottbus"></a></td>
+    <td><a href="http://jfvnet.de/cleverinside/"    ><img width="12%" src="logos/Technikschule-cleverinside.gif" alt="Maker Kutsche"></a></td>
+    <td><a href="https://makerkutsche.de/"          ><img width="12%" src="logos/maker-kutsche-logobeta.png" alt="Maker Kutsche"></a></td>
+    <td><a href="https://machbar-potsdam.de/"       ><img width="12%" src="logos/wissenschaftsladen-potsdam.jpg" alt="Wissenschaftsladen Potsdam"></a></td>
+    <td><a href="https://CoderDojoPotsdam.github.io"><img width="12%" src="logos/CoderDojo-Potsdam.svg" alt="CoderDojo Potsdam"></a></td>
+    <td><a href="http://vinnlab.th-wildau.de/"      ><img width="12%" src="logos/ViNNLabLogo_hoch_ThinkMakeShare.png" alt="ViNN:Lab" /></a></td>
   </tr>
 </table>
 
