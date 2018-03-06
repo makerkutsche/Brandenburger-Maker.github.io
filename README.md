@@ -10,7 +10,7 @@ Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks 
 
 <table>
   <tr>
-    <td><a href="https://zhq.th-brandenburg.de/"    >Technische Hochschule Brandenburg</a></td>
+    <td><a href="https://zhq.th-brandenburg.de/"    ><img src="logos/THB_Werkstatt_Logo_CMYK_pfade.svg" alt="Technische Hochschule Brandenburg"></a></td>
     <td><a href="http://fablab-cottbus.de"          ><img src="logos/FabLab-Logo-Cottbus-farbig.png" alt="FabLab Cottbus"></a></td>
     <td><a href="http://jfvnet.de/cleverinside/"    ><img src="logos/Technikschule-cleverinside.gif" alt="Maker Kutsche"></a></td>
     <td><a href="https://makerkutsche.de/"          ><img src="logos/maker-kutsche-logobeta.png" alt="Maker Kutsche"></a></td>
