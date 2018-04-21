@@ -1,6 +1,6 @@
 # Verbund Brandenburger Maker
 
-Mit der Initiative möchten wir den Austausch in Brandenburg fördern, um gemeinsame Projekte umsetzen zu können - Veranstaltungen, die auf das Angebot und die Themen aufmerksam machen oder Projekte, die uns finanzielle Unterstützung ermöglichen.
+Mit der Initiative möchten wir den Austausch von offenen Werkstätten in Brandenburg fördern, um gemeinsame Projekte umsetzen zu können - Veranstaltungen, die auf das Angebot und die Themen aufmerksam machen oder Projekte, die uns finanzielle Unterstützung ermöglichen.
 
 ## Mitmachen 
 
