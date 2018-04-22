@@ -17,7 +17,7 @@ Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks 
     <td width="12%"><a href="https://machbar-potsdam.de/"       ><img src="logos/wissenschaftsladen-potsdam.jpg" alt="Wissenschaftsladen Potsdam"></a></td>
     <td width="12%"><a href="https://CoderDojoPotsdam.github.io"><img src="logos/CoderDojo-Potsdam.svg" alt="CoderDojo Potsdam"></a></td>
     <td width="12%"><a href="http://vinnlab.th-wildau.de/"      ><img src="logos/ViNNLabLogo_hoch_ThinkMakeShare.png" alt="ViNN:Lab" /></a></td>
-    <td width="12%"><a href="https://www.havellab.org/"    ><img src="logos/havellab.png" alt="Havel:lab Fürstenberg"></a></td>
+    <td width="12%"><a href="https://www.havellab.org/"         ><img src="logos/havellab.png" alt="Havel:lab Fürstenberg"></a></td>
   </tr>
 </table>
 
