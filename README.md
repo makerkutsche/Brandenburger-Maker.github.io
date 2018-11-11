@@ -2,7 +2,6 @@
 
 Die Seite basiert zu großen Teilen auf der Website des Projektes [edulabs.de](https://edulabs.de/), die CC-by lizenziert ist.
 
-<img src="assets/img/static/fablabLogo farbig weiß_main.png" width="300" align="center">
 
 # License
 
