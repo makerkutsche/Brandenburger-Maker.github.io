@@ -9,3 +9,6 @@ src: "/assets/img/labs/maker-kutsche-logobeta.png"
 <div style="text-align: right"></div>
 </div>
 
+<div class="content-wrap btn-wrap">
+    <a class="edu-btn black" href="http://jfvnet.de/cleverinside/" target="_blank">Zur Werkstatt</a>
+</div>

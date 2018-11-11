@@ -10,5 +10,5 @@ src: "/assets/img/labs/FabLab-Logo-Cottbus-farbig.png"
 </div>
 
 <div class="content-wrap btn-wrap">
-    <a class="edu-btn black" href="http://www.blog.fablab-cottbus.de/" target="_blank">Zur Dokumentation</a>
+    <a class="edu-btn black" href="http://www.blog.fablab-cottbus.de/" target="_blank">Zur Werkstatt</a>
 </div>
