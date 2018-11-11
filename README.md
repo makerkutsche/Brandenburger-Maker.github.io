@@ -1,4 +1,4 @@
-# Die Website des Fablab Cottbus e.V.
+# Die Website des Netzwerkes Brandenburger Werkstätten
 
 Die Seite basiert zu großen Teilen auf der Website des Projektes [edulabs.de](https://edulabs.de/), die CC-by lizenziert ist.
 

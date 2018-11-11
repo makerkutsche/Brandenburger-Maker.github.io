@@ -19,7 +19,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fablabcb
 permalink: /blog/:title
 staticman_server: 'https://staticman.okfn.de'
-url: "https://edulabs.de"
+url: "https://brandenburger-maker.github.io/"
 
 # Build settings
 highlighter: rouge
@@ -90,12 +90,12 @@ defaults:
      layout: add-tool
 
 
-repository: 'okfde/edulabs'
+repository: 'Brandenburger-Maker'
 
 staticman:
   branch: "master"
 
 title: "Netzwerk Brandenburger Werstätten"
 description: "Wir sind das Netzwerk offener Werkstätten in Brandenburg"
-logo: "/assets/img/static/edulabs-logo.svg"
+logo: ""
 lang: "de_DE"
