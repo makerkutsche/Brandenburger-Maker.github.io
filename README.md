@@ -1,48 +1,14 @@
-# Verbund Brandenburger Maker
+# Die Website des Fablab Cottbus e.V.
 
-Mit der Initiative möchten wir den Austausch von offenen Werkstätten in Brandenburg fördern, um gemeinsame Projekte umsetzen zu können - Veranstaltungen, die auf das Angebot und die Themen aufmerksam machen oder Projekte, die uns finanzielle Unterstützung ermöglichen.
+Die Seite basiert zu großen Teilen auf der Website des Projektes [edulabs.de](https://edulabs.de/), die CC-by lizenziert ist.
 
-## Mitmachen 
+<img src="assets/img/static/fablabLogo farbig weiß_main.png" width="300" align="center">
 
-Du bist in einer Brandenburger Werkstatt aktiv und möchtest Teil des Netzwerks werden? Über unsere [Mailingliste][join-mailing-list] erfährst du wann wir uns treffen und was wir besprechen. Um beizutreten, schicke einfach die Mail ab, die sich nach dem Klick auf den Link öffnet. Du bist willkommen und kannst dich uns gern vorstellen.
+# License
 
-## Teil des Verbunds sind:
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-<table>
-  <tr>
-    <td width="12%"><a href="https://zhq.th-brandenburg.de/"    ><img src="logos/THB_Werkstatt_Logo_CMYK_pfade.svg" alt="Technische Hochschule Brandenburg"></a></td>
-    <td width="12%"><a href="http://fablab-cottbus.de"          ><img src="logos/FabLab-Logo-Cottbus-farbig.png" alt="FabLab Cottbus"></a></td>
-    <td width="12%"><a href="http://jfvnet.de/cleverinside/"    ><img src="logos/Technikschule-cleverinside.gif" alt="Maker Kutsche"></a></td>
-    <td width="12%"><a href="https://makerkutsche.de/"          ><img src="logos/maker-kutsche-logobeta.png" alt="Maker Kutsche"></a></td>
-    <td width="12%"><a href="https://machbar-potsdam.de/"       ><img src="logos/wissenschaftsladen-potsdam.jpg" alt="Wissenschaftsladen Potsdam"></a></td>
-    <td width="12%"><a href="https://CoderDojoPotsdam.github.io"><img src="logos/CoderDojo-Potsdam.svg" alt="CoderDojo Potsdam"></a></td>
-    <td width="12%"><a href="http://vinnlab.th-wildau.de/"      ><img src="logos/ViNNLabLogo_hoch_ThinkMakeShare.png" alt="ViNN:Lab" /></a></td>
-    <td width="12%"><a href="https://www.havellab.org/"         ><img src="logos/havellab.png" alt="Havel:lab Fürstenberg"></a></td>
-  </tr>
-</table>
+Sofern nicht anders angegeben, stehen die Inhalte dieser Seite unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative Commons Namensnennung 4.0 International Lizenz</a>. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-- Brandenburg
-  - [Technische Hochschule Brandenburg][thb] (Lisa Jakobi, Steffen Rotsch)
-- Cottbus
-  - [FabLab Cottbus][fcb] (Maximilian Voigt)
-- Fürstenberg
-   - [Havel:Lab][havel:lab] (ddb)
-- Lübbenau
-  - [cleverinside][cleverinside] (Frank Thorhauer)
-  - [Maker Kutsche][makerkutsche] (Frank Thorhauer)
-- Potsdam
-  - [Die machBar][machBar] des [Wissenschaftsladens Potsdam][wilap] (Martin Koll)
-  - das [CoderDojo am HPI][cdp] (Nicco Kunzmann)
-- Wildau
-  - [ViNN:Lab][vinn-lab] (Patrick Grabasch)
+This website is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Please read the LICENSE files for more details.
 
-[join-mailing-list]: mailto:&#109;&#097;&#106;&#111;&#114;&#100;&#111;&#109;&#111;&#064;&#102;&#097;&#098;&#108;&#097;&#098;&#045;&#099;&#111;&#116;&#116;&#098;&#117;&#115;&#046;&#100;&#101;?subject=subscribe&#32;brandenburger-fablab-cottbus-de&body=subscribe&#32;brandenburger-fablab-cottbus-de
-[machBar]: https://machbar-potsdam.de/
-[vinn-lab]: http://vinnlab.th-wildau.de/
-[thb]: https://zhq.th-brandenburg.de/
-[cleverinside]: http://jfvnet.de/cleverinside/
-[cdp]: https://CoderDojoPotsdam.github.io/
-[fcb]: http://fablab-cottbus.de
-[makerkutsche]: https://makerkutsche.de/
-[wilap]: http://www.wissenschaftsladen-potsdam.de/
-[havel:lab]: https://www.havellab.org/
