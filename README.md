@@ -11,3 +11,11 @@ Sofern nicht anders angegeben, stehen die Inhalte dieser Seite unter der <a href
 
 This website is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Please read the LICENSE files for more details.
 
+# Entwicklung
+
+1. Git installieren
+2. Repository Klonen
+3. Ruby installieren
+4. `gem install bundler`
+5. Im Repository `bundle install`
+6. Zum Ausführen der Webseite auf http://localhost:4000 `bundle exec jekyll serve --trace`
