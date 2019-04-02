@@ -1218,18 +1218,22 @@ FOOTER STYLES
     ul {
 
       display: inline-block;
-      float: left;
+
       margin: 0;
 
       li {
 
-        display: inline-block;
-        height: 60px;
 
-        margin-bottom: 20px;
-        &:last-of-type{
-          margin-bottom: 0;
-        }
+                  text-align: center;
+                  position: relative;
+                  max-width: 300px;
+                  margin-left: 0px;
+                  margin-bottom: 50px;
+                  img {
+                    max-width: 300px;
+                    text-align: center;
+                  }
+
 
         &.cc-info{
           text-align: center;
