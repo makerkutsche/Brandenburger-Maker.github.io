@@ -95,7 +95,7 @@ repository: 'Brandenburger-Maker'
 staticman:
   branch: "master"
 
-title: "Netzwerk Brandenburger Werstätten"
+title: "Netzwerk Brandenburger Werkstätten"
 description: "Wir sind das Netzwerk offener Werkstätten in Brandenburg"
 logo: ""
 lang: "de_DE"
