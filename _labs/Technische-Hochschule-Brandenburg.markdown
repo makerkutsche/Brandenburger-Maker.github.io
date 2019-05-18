@@ -12,5 +12,5 @@ src: "/assets/img/labs/THB_Werkstatt_Logo_CMYK_pfade.png"
 <div class="video"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.535781264305115%2C52.40994588866342%2C12.53942906856537%2C52.41170964244173&amp;layer=mapnik&amp;marker=52.41082777436885%2C12.537605166435242" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.41083&amp;mlon=12.53761#map=18/52.41083/12.53761">Größere Karte anzeigen</a></small></div>
 
 <div class="content-wrap btn-wrap">
-    <a class="edu-btn black" href="https://offene-werkstatt.th-brandenburg.de/die-werkstatt/" target="_blank">Zur Werkstatt</a>
+    <a class="edu-btn black" href="https://offene-werkstatt.th-brandenburg.de/" target="_blank">Zur Werkstatt</a>
 </div>
