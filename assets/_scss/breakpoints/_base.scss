@@ -593,6 +593,15 @@ body:not(.safari){
     text-align: center;
     background-color: $darkgreen;
   }
+  .sloganevent{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: block;
+    text-align: center;
+    background-color: $white;
+  }
   .logo{
 
     width: 60vw;
@@ -620,6 +629,16 @@ body:not(.safari){
   &.home{
     height: 80vh;
     background: url($baseurl + '/assets/img/static/aufmacher_2.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    @media only screen and (max-width: 640px) {
+      height: 300px;
+    }
+  }
+  &.homeevent{
+    height: 80vh;
+    background: url($baseurl + '/assets/img/static/TdE_Banner.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 
