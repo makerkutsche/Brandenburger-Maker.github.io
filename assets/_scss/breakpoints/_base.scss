@@ -536,13 +536,27 @@ HEADER STYLES
           &:hover, &:focus{
             font-weight: bold;          }
         }
-        &.featured{
+        &.featured-green{
           a{
             color: $white;
             background-color: $darkgreen;
           }
           &:hover, &:focus{
-            font-weight: bold;
+            a{
+                background-color: #4aac61;
+            }
+          }
+        }
+        &.featured-red{
+          a{
+            color: $white;
+            background-color: #eb68a2;
+          }
+          &:hover, &:focus{
+
+            a{
+                background-color: #af60a2;
+            }
           }
         }
         a{
