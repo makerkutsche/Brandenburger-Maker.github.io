@@ -21,6 +21,8 @@ permalink: /blog/:title
 staticman_server: 'https://staticman.okfn.de'
 url: "https://brandenburger-maker.github.io/"
 
+plugins:
+  - jekyll-redirect-from
 # Build settings
 highlighter: rouge
 markdown: kramdown
