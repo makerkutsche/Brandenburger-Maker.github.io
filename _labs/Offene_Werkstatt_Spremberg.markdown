@@ -3,6 +3,9 @@ layout: lab
 title:  "Spremberg"
 headline: "Offene Werkstatt"
 src: "/assets/img/labs/werkstatt_spremberg.png"
+eventtxt: "Kreiert und programmiert eure eigenen Transportroboter oder experimentiert mit Schere und Papier."
+visible: '1'
+adr: "Am Markt 5, 03130 Spremberg"
 ---
 
 <div class="img-wrap-center">

@@ -5,6 +5,7 @@ headline: "Verstehbahnhof"
 src: "/assets/img/labs/havellab.png"
 visible: "1"
 eventtxt: "Besucht das Jugend hackt Lab-Treffen und baut erste Prototypen"
+adr: "Bahnhof Fürstenberg, 16798 Fürstenberg/Havel"
 ---
 <div class="img-wrap-center">
 <img src="/assets/img/labs/havellab.png" style="width: 100%; display: inline-block">

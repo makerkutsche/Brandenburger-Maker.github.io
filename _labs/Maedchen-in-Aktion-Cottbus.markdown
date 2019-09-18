@@ -4,7 +4,7 @@ title:  "Cottbus"
 headline: "MiA - Mädchen in Aktion"
 src: "/assets/img/labs/LOGO_Lila Villa.jpg"
 eventtxt: "Baut eure eigenen Lampen und lernt die Frauen- und Mädchenwerkstatt kennen"
-visible: '1'
+visible: '0'
 adr: "Thiemstraße 55, 03050 Cottbus"
 ---
 <div class="img-wrap-center">

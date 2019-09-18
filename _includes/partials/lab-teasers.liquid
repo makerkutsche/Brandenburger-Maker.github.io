@@ -2,7 +2,7 @@
     {% if include.event == '1' %}
         {% for lab in site.labs %}
             {% if lab.visible == '1' %}
-                {% include partials/event-lab-teaser.liquid name=lab.title txt=lab.eventtxt url=lab.url src=lab.src copy=lab.headline %}
+                {% include partials/event-lab-teaser.liquid name=lab.title adr=lab.adr txt=lab.eventtxt url=lab.url src=lab.src copy=lab.headline %}
             {% endif %}
         {% endfor %}
     {% else %}
