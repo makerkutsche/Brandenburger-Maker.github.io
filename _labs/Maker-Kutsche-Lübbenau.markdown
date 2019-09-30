@@ -1,8 +1,11 @@
 ---
 layout: lab
-title:  "Lübbenau"
+title:  "Ruhland"
 headline: "Maker Kutsche"
 src: "/assets/img/labs/maker-kutsche-logobeta.png"
+eventtxt: "Entdeckt in der Makerkutsche den 3D-Drucker, malt mit Hilfe eines Mikrocontrollers oder baut eure eigenen Roboter."
+visible: '1'
+adr: "Zollhaus Ruhland, Berliner Straße 29, 01945 Ruhland"
 ---
 <div class="img-wrap-center">
 <img src="/assets/img/labs/maker-kutsche-logobeta.png" style="width: 100%; display: inline-block">
