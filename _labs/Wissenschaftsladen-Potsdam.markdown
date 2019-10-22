@@ -15,7 +15,7 @@ adr: "Haus 5, Friedrich-Engels-Strasse 22, 14473 Potsdam"
 
 <div class="video">
     <!-- https://www.openstreetmap.org/#map=18/52.38946/13.07855 -> Share -> with marker -> html -->
-    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.075114488601685%2C52.38852325010618%2C13.080639839172365%2C52.390395895478335&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/52.38946/13.07788">Größere Karte anzeigen</a></small>
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.07579040527344%2C52.38852006017169%2C13.081315755844116%2C52.390392705679155&amp;layer=mapnik&amp;marker=52.38945639285622%2C13.078553080558777" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.38946&amp;mlon=13.07855#map=18/52.38946/13.07855">Größere Karte anzeigen</a></small>
 </div>
 
 <div class="content-wrap btn-wrap">
