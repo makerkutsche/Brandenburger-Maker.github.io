@@ -4,6 +4,7 @@ title:  "Cottbus"
 headline: "FabLab"
 src: "/assets/img/labs/FabLab-Logo-Cottbus-farbig.png"
 visible: '1'
+corona: '1'
 eventtxt: "Baut eure eigenen Lampen, entdeckt den 3D-Drucker und lernt das FabLab Cottbus sowie die Frauen- und Mädchenwerkstatt kennen"
 adr: "Walther-Pauer-Straße 5, 03044 Cottbus"
 ---

@@ -5,6 +5,13 @@
                 {% include partials/event-lab-teaser.liquid name=lab.title adr=lab.adr txt=lab.eventtxt url=lab.url src=lab.src copy=lab.headline %}
             {% endif %}
         {% endfor %}
+    {% elsif include.corona == '1' %}
+        {% for lab in site.labs %}
+            {% if lab.corona == '1' %}
+                {% include partials/event-lab-teaser.liquid name=lab.title adr=lab.adr txt=lab.eventtxt url=lab.url src=lab.src copy=lab.headline %}
+            {% endif %}
+        {% endfor %}
+
     {% else %}
         {% for lab in site.labs %}
                 {% include partials/lab-teaser.liquid name=lab.title url=lab.url src=lab.src copy=lab.headline %}
