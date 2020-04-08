@@ -3,6 +3,9 @@ layout: lab
 title:  "Eberswalde"
 headline: "Hebewerk"
 src: "/assets/img/labs/hebewerk.png"
+corona: '1'
+coronalink: "https://hebewerk-eberswalde.de/"
+adr: "Puschkinstraße 15, 16225 Eberswalde"
 ---
 
 <div class="img-wrap-center">
