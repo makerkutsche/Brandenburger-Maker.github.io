@@ -5,7 +5,7 @@ headline: "Technikschule Cleverinside"
 src: "/assets/img/labs/Technikschule-cleverinside.png"
 eventtxt: "In der Technikschule könnt ihr Siebdrucken, mit dem Lasercutter gravieren und schneiden oder mit dem Raspberry Pi programmieren."
 visible: '1'
-corona: '1'
+corona: '0'
 adr: "Dammstraße 72, 03222 Lübbenau/Spreewald"
 ---
 <div class="img-wrap-center">
