@@ -5,6 +5,7 @@ headline: "Wissenschaftsladen"
 src: "/assets/img/labs/wissenschaftsladen-potsdam.jpg"
 visible: "1"
 corona: '1'
+coronalink: "https://machbar-potsdam.de/machbar-vernetzung-gegen-covid-19/"
 eventtxt: "Codet in der machBar beim CoderDojo euer erstes Programm und entdeckt den Laser Cutter"
 adr: "Haus 5, Friedrich-Engels-Strasse 22, 14473 Potsdam"
 ---

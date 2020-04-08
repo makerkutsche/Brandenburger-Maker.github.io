@@ -6,6 +6,7 @@ src: "/assets/img/labs/werkstatt_spremberg.png"
 eventtxt: "Kreiert und programmiert eure eigenen Transportroboter oder experimentiert mit Schere und Papier."
 visible: '1'
 corona: '1'
+coronalink: "https://www.owspremberg.de/2020/04/04/prusa-gesichtsschutz-tag-13-danke/"
 adr: "Am Markt 5, 03130 Spremberg"
 ---
 
