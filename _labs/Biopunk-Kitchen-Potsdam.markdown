@@ -1,17 +1,12 @@
 ---
 layout: lab
 title:  "Potsdam"
-headline: "Wissenschaftsladen"
-src: "/assets/img/labs/wissenschaftsladen-potsdam.jpg"
-visible: "1"
-corona: '1'
-coronalink: "https://machbar-potsdam.de/machbar-vernetzung-gegen-covid-19/"
-eventtxt: "Codet in der machBar beim CoderDojo euer erstes Programm und entdeckt den Laser Cutter"
-adr: "Haus 5, Friedrich-Engels-Strasse 22, 14473 Potsdam"
+headline: "bioPunk.kitchen"
+src: "/assets/img/labs/biopunkkitchen-invert.png"
 ---
 
 <div class="img-wrap-center">
-<img src="/assets/img/labs/wissenschaftsladen-potsdam.jpg" style="width: 100%; display: inline-block">
+<img src="/assets/img/labs/biopunkkitchen-invert.png" style="width: 100%; display: inline-block">
 <div style="text-align: right"></div>
 </div>
 
@@ -21,6 +16,6 @@ adr: "Haus 5, Friedrich-Engels-Strasse 22, 14473 Potsdam"
 </div>
 
 <div class="content-wrap btn-wrap">
-    <a class="edu-btn black" href="https://machbar-potsdam.de/" target="_blank">Zur Werkstatt</a>
+    <a class="edu-btn black" href="https://biopunk.kitchen/" target="_blank">Zur Werkstatt</a>
 </div>
 
