@@ -662,7 +662,16 @@ body:not(.safari){
       height: 300px;
     }
   }
+  &.homecorona{
+    height: 80vh;
+    background: url($baseurl + '/assets/img/static/WSP_cSebastianGabsch__2.JPG') no-repeat;
+    background-size: cover;
+    background-position: center;
 
+    @media only screen and (max-width: 640px) {
+      height: 300px;
+    }
+  }
   &.image{
     height: 80vh;
     background: url('') no-repeat;
