@@ -4,6 +4,8 @@ title:  "Brandenburg"
 headline: "Technische Hochschule Brandenburg"
 src: "/assets/img/labs/THB_Werkstatt_Logo_CMYK_pfade.png"
 visible: "1"
+corona: '1'
+coronalink: "https://offene-werkstatt.th-brandenburg.de/"
 eventtxt: "Entdeckt die 3D-Drucker der Offenen Werkstatt an der Technischen Hochschule - fräst, bohrt und schraubt!"
 adr: "Haus D, Raum 010, Magdeburger Straße 50, 14770 Brandenburg Havel"
 ---
