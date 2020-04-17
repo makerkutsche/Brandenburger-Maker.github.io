@@ -14,7 +14,9 @@
 
     {% else %}
         {% for lab in site.labs %}
+            {% if lab.visible != '0' %}
                 {% include partials/lab-teaser.liquid name=lab.title url=lab.url src=lab.src copy=lab.headline %}
+            {% endif %}
         {% endfor %}
     {% endif %}
 

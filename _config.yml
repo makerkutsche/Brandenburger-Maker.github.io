@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 email: info@fablab-cottbus.de
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fablabcb
 permalink: /blog/:title
 staticman_server: 'https://staticman.okfn.de'
@@ -23,6 +22,7 @@ url: "https://brandenburger-maker.github.io/"
 
 plugins:
   - jekyll-redirect-from
+
 # Build settings
 highlighter: rouge
 markdown: kramdown
@@ -38,6 +38,9 @@ exclude:
   - commands.txt
   - start_serve.bat
   - start_watch.bat
+
+whitelist:
+  - jekyll-redirect-from
 
 # Assets
 #
