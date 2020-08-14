@@ -16,5 +16,5 @@ coronalink: ""
 
 
 <div class="content-wrap btn-wrap">
-    <a class="edu-btn black" href="www.techbil.de" target="_blank">Zur Werkstatt</a>
+    <a class="edu-btn black" href="https://www.techbil.de" target="_blank">Zur Werkstatt</a>
 </div>
