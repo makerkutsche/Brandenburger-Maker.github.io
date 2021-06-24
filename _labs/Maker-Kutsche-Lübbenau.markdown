@@ -7,6 +7,7 @@ eventtxt: "Entdeckt in der Makerkutsche den 3D-Drucker, malt mit Hilfe eines Mik
 visible: '1'
 adr: "Zollhaus Ruhland, Berliner Straße 29, 01945 Ruhland"
 corona: '1'
+mofab: '0'
 coronalink: "https://www.awo-bb-sued.de/AWO-mobile-offene-Werkstatt-fuer-Kinder-und-Jugendliche-Makerkutsche-901017.html"
 ---
 <div class="img-wrap-center">

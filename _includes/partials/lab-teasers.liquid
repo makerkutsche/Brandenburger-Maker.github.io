@@ -11,7 +11,12 @@
                 {% include partials/corona-lab-teaser.liquid link=lab.coronalink name=lab.title adr=lab.adr txt=lab.coronatxt url=lab.url src=lab.src copy=lab.headline %}
             {% endif %}
         {% endfor %}
-
+    {% elsif include.mofab == '1' %}
+        {% for lab in site.labs %}
+            {% if lab.mofab == '1' %}
+                {% include partials/corona-lab-teaser.liquid link=lab.coronalink name=lab.title adr=lab.adr txt=lab.coronatxt url=lab.url src=lab.src copy=lab.headline %}
+            {% endif %}
+        {% endfor %}
     {% else %}
         {% for lab in site.labs %}
             {% if lab.visible != '0' %}
