@@ -2,8 +2,7 @@
 title: "MoFab: regionale Entwicklung von unten"
 lab: Projekte
 status: building
-short-desc: >-
-  ...
+short-desc:
 needs: ""
 content: ""
 link: 'mofab'
