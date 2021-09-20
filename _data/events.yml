@@ -1,6 +1,12 @@
-- name: Vereinstreffen
-  url:
-  date: 31.03. // 17 Uhr
-  city: Lab
+- name: ""
+  url: ""
+  date: ..
+  city: ..
+  featured: false
+  id: "0002"
+- name: "Projektstart: Reparieren, erhalten erfinden"
+  url: "https://fablab-cottbus.de/blog/kickoff-mofab-altmarkt-cottbus"
+  date: 24. & 25.10.
+  city: Altmarkt Cottbus
   featured: true
   id: "0001"
