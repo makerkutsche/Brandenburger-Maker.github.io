@@ -3,7 +3,7 @@ layout: lab
 title:  "Berlin"
 headline: "Open Knowledge Foundation Deutschland"
 src: "/assets/img/labs/box-open-knowledge-foundation-de.jpg"
-corona: '1'
+corona: '0'
 mofab: '1'
 visible: '0'
 adr: "Singerstr. 109, 10179 Berlin"

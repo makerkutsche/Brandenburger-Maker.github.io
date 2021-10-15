@@ -3,7 +3,7 @@ layout: lab
 title:  "Potsdam"
 headline: "Universität Potsdam"
 src: "/assets/img/labs/Humanlogo_08.jpg"
-corona: '1'
+corona: '0'
 mofab: '1'
 visible: '0'
 adr: "Karl-Marx-Straße 67, 14482 Potsdam"

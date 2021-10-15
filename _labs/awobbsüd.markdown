@@ -3,7 +3,7 @@ layout: lab
 title:  "Lübbenau"
 headline: "AWO Brandenburg Süd"
 src: "/assets/img/labs/Awo-logo-08.svg.png"
-corona: '1'
+corona: '0'
 mofab: '1'
 visible: '0'
 adr: " Rudolf-Breitscheid-Straße 24,  03222 Lübbenau/Spreewald "
