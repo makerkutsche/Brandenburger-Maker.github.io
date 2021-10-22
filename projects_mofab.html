@@ -26,30 +26,41 @@ info_text: |
 
                 <center><img style="width:40%;" src="/assets/img/static/bmbf.png"></center>
             </div>
-            <h2 id="events" class="blue about-subline">Veranstaltungen</h2>
+        </div>
+
+    </section>
+    <div class="row">
+        <section class="section grey-light col-xs-24">
+            <div class="content-wrap subpage-content">
+                <h2 id="events" tabindex="-1" class="section-headline">Veranstaltungen</h2>
+
+            </div>
             <div style="text-aligne: center;">
                 <div style="display: inline-block; text-align: left;">
                     {% include partials/events.liquid %}
                 </div>
             </div>
-            <h2 id="partner" class="blue about-subline">Projektpartner</h2>
+        </section>
+    </div>
+    <div class="row">
+        <section class="section blue col-xs-24">
+            <div class="content-wrap subpage-content">
+                <h2 id="partner" tabindex="-1" class="white section-headline">Projektpartner</h2>
+            </div>
 
-        </div>
-        <!-- lab teasers -->
-        {% include partials/lab-teasers.liquid mofab='1' %}
-    </section>
-    <!-- team
-
+            {% include partials/lab-teasers.liquid mofab='1' %}
+        </section>
+    </div>
     <div class="row">
         <section class="section grey-light col-xs-24">
             <div class="content-wrap subpage-content">
-                <h2 id="team" tabindex="-1" class="section-headline">Vorstand</h2>
+                <h2 id="community" tabindex="-1" class="section-headline">Kooperationspartner</h2>
             </div>
 
-            {% include partials/member-teasers.liquid %}
+            {% include partials/lab-teasers.liquid mofab_community='1' %}
         </section>
     </div>
-    -->
+
 </div>
 <!-- include mitmachen section -->
 {% include partials/sections/apply.liquid %}
