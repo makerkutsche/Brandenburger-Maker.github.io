@@ -1,18 +1,36 @@
+- name: "3D-Druck und -Modelierung für Einsteiger*"
+  url: ""
+  date: 10.12., 18 Uhr
+  city: online
+  featured: true
+  id: "0006"
+- name: "Weihnachtsschmuck lasern"
+  url: ""
+  date: 18.12., 16 Uhr
+  city: online
+  featured: true
+  id: "0005"
+- name: "Bau dir deinen 3D-Drucker"
+  url: ""
+  date: 18.2.
+  city: Guben
+  featured: true
+  id: "0004"
 - name: "Projektstart: Reparieren, erhalten erfinden"
   url: "https://fablab-cottbus.de/blog/kickoff-mofab-altmarkt-cottbus"
   date: 24. & 25.10.
   city: Altmarkt Cottbus
-  featured: true
+  featured: false
   id: "0003"
 - name: "Zukunftswerkstatt Cottbus von Unten"
   url: "https://cottbus.vonunten.org/"
   date: 1. & 2.10.
   city: Strombad Cottbus
-  featured: true
+  featured: false
   id: "0002"
 - name: MoFab beim Markt der Nachhaltigkeit
   url: "https://www.spreewald-biosphaerenreservat.de/themen/meldungen/markt-der-nachhaltigkeit-nachhaltigkeit-zum-anfassen-anschauen-und-ausprobieren/"
   date: 25.09.
   city: Lübbenau, Kirchplatz 1
-  featured: true
+  featured: false
   id: "0001"
