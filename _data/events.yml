@@ -1,18 +1,18 @@
 - name: "3D-Druck und -Modelierung für Einsteiger*"
-  url: ""
+  url: "https://fablab-cottbus.de/blog/mofab-online-workshops"
   date: 10.12., 18 Uhr
   city: online
   featured: true
   id: "0006"
 - name: "Weihnachtsschmuck lasern"
-  url: ""
+  url: "https://fablab-cottbus.de/blog/mofab-online-workshops"
   date: 18.12., 16 Uhr
   city: online
   featured: true
   id: "0005"
 - name: "Bau dir deinen 3D-Drucker"
   url: ""
-  date: 18.2.
+  date: 18.02.2021
   city: Guben
   featured: true
   id: "0004"
