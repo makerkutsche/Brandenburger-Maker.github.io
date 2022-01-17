@@ -1,14 +1,20 @@
+- name: "Start der Lausitzer Tüftel-Seminarreihe"
+  url: "https://fablab-cottbus.de/blog/lausitzer-tueftelseminare"
+  date: 27.01., 16 Uhr
+  city: online
+  featured: true
+  id: "0006"
 - name: "3D-Druck und -Modelierung für Einsteiger*"
   url: "https://fablab-cottbus.de/blog/mofab-online-workshops"
   date: 10.12., 18 Uhr
   city: online
-  featured: true
+  featured: false
   id: "0006"
 - name: "Weihnachtsschmuck lasern"
   url: "https://fablab-cottbus.de/blog/mofab-online-workshops"
   date: 18.12., 16 Uhr
   city: online
-  featured: true
+  featured: false
   id: "0005"
 - name: "Bau dir deinen 3D-Drucker"
   url: ""
