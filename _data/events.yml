@@ -1,9 +1,21 @@
-- name: "Start der Lausitzer Tüftel-Seminarreihe"
+- name: "Vortrag 3D-Drucker im Überblick*"
+  url: "https://www.guben.de/images/downloads/aktuell/pressemeldungen/2022/220128_Buecherfruehling.pdf"
+  date: 17.02., 17 Uhr
+  city: Guben, Bibliothek
+  featured: true
+  id: "0009"
+- name: "3D-Druck und Modellierung - Spielzeug reparieren*"
   url: "https://fablab-cottbus.de/blog/lausitzer-tueftelseminare"
-  date: 27.01., 16 Uhr
+  date: 16.02., 16 Uhr
   city: online
   featured: true
-  id: "0006"
+  id: "0008"
+- name: "Start der Lausitzer Tüftel-Seminarreihe"
+  url: "https://fablab-cottbus.de/blog/lausitzer-tueftelseminare"
+  date: 28.01., 16 Uhr
+  city: online
+  featured: true
+  id: "0007"
 - name: "3D-Druck und -Modelierung für Einsteiger*"
   url: "https://fablab-cottbus.de/blog/mofab-online-workshops"
   date: 10.12., 18 Uhr
@@ -16,8 +28,8 @@
   city: online
   featured: false
   id: "0005"
-- name: "Bau dir deinen 3D-Drucker"
-  url: ""
+- name: "Tüftel-Spezial: 3D-Drucker bauen"
+  url: "https://machbar-potsdam.de/tueftel-spezial-3d-drucker-bauen-in-guben/"
   date: 18.02.2021
   city: Guben
   featured: true
