@@ -1,10 +1,16 @@
-- name: "Vortrag 3D-Drucker im Überblick*"
+- name: "Tüftel-Spezial: 3D-Drucker bauen"
+  url: "https://machbar-potsdam.de/tueftel-spezial-3d-drucker-bauen-in-guben/"
+  date: 18.02.2021
+  city: Guben
+  featured: true
+  id: "0010"
+- name: "Vortrag 3D-Drucker im Überblick"
   url: "https://www.guben.de/images/downloads/aktuell/pressemeldungen/2022/220128_Buecherfruehling.pdf"
   date: 17.02., 17 Uhr
   city: Guben, Bibliothek
   featured: true
   id: "0009"
-- name: "3D-Druck und Modellierung - Spielzeug reparieren*"
+- name: "3D-Druck und Modellierung - Spielzeug reparieren"
   url: "https://fablab-cottbus.de/blog/lausitzer-tueftelseminare"
   date: 16.02., 16 Uhr
   city: online
@@ -32,7 +38,7 @@
   url: "https://machbar-potsdam.de/tueftel-spezial-3d-drucker-bauen-in-guben/"
   date: 18.02.2021
   city: Guben
-  featured: true
+  featured: false
   id: "0004"
 - name: "Projektstart: Reparieren, erhalten erfinden"
   url: "https://fablab-cottbus.de/blog/kickoff-mofab-altmarkt-cottbus"
