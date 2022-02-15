@@ -652,6 +652,16 @@ body:not(.safari){
       height: 300px;
     }
   }
+  &.homeapply{
+    height: 80vh;
+    background: url($baseurl + '/assets/img/static/fabmobil_winter.jpeg') no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    @media only screen and (max-width: 640px) {
+      height: 300px;
+    }
+  }
   &.homeevent{
     height: 80vh;
     background: url($baseurl + '/assets/img/static/TdE_Banner.jpg') no-repeat;
@@ -727,7 +737,19 @@ PAGE & SECTIONS
   a:hover{
     background-color: $link-background-hover;
   }
+  &.center{
+        text-align: center;
+      a{
+        @include transition(background-color .25s ease);
+      }
 
+      a, a:focus, a:visited{
+        background-color: $link-background;
+      }
+      a:hover{
+        background-color: $link-background-hover;
+      }
+  }
 }
 
 .grid-sizer{
