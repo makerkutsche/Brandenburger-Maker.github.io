@@ -1,26 +1,62 @@
+- name: "Lausitz-Tour: Guben"
+  url: "/los/"
+  date: 05.-06.03.
+  city: Guben
+  featured: true
+  id: "0016"
+- name: "Lausitz-Tour: Lübbenau"
+  url: "/los/"
+  date: 19.-20.03.
+  city: Lübbenau
+  featured: true
+  id: "0015"
+- name: "Lausitz-Tour: Cottbus"
+  url: "/los/"
+  date: 02.-03.04.
+  city: Cottbus
+  featured: true
+  id: "0014"
+- name: "Lausitz-Tour: Weißwasser"
+  url: "/los/"
+  date: 23.-24.04.
+  city: Weißwasser
+  featured: true
+  id: "0013"
+- name: "Lausitz-Tour: Raddusch"
+  url: "/los/"
+  date: 21.-02.05.
+  city: Raddusch
+  featured: true
+  id: "0012"
+- name: "Lausitz-Tour: Forst"
+  url: "/los/"
+  date: 03.-04.06.
+  city: Forst
+  featured: true
+  id: "0011"
 - name: "Tüftel-Spezial: 3D-Drucker bauen"
   url: "https://machbar-potsdam.de/tueftel-spezial-3d-drucker-bauen-in-guben/"
   date: 18.02.2021
   city: Guben
-  featured: true
+  featured: false
   id: "0010"
 - name: "Vortrag 3D-Drucker im Überblick"
   url: "https://www.guben.de/images/downloads/aktuell/pressemeldungen/2022/220128_Buecherfruehling.pdf"
   date: 17.02., 17 Uhr
   city: Guben, Bibliothek
-  featured: true
+  featured: false
   id: "0009"
 - name: "3D-Druck und Modellierung - Spielzeug reparieren"
   url: "https://fablab-cottbus.de/blog/lausitzer-tueftelseminare"
   date: 16.02., 16 Uhr
   city: online
-  featured: true
+  featured: false
   id: "0008"
 - name: "Start der Lausitzer Tüftel-Seminarreihe"
   url: "https://fablab-cottbus.de/blog/lausitzer-tueftelseminare"
   date: 28.01., 16 Uhr
   city: online
-  featured: true
+  featured: false
   id: "0007"
 - name: "3D-Druck und -Modelierung für Einsteiger*"
   url: "https://fablab-cottbus.de/blog/mofab-online-workshops"
