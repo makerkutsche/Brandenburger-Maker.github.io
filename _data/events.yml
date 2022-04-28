@@ -2,30 +2,30 @@
   url: "/los/"
   date: 05.-06.03.
   city: Guben
-  featured: true
+  featured: false
   id: "0016"
 - name: "Lausitz-Tour: Lübbenau"
   url: "/los/"
   date: 19.-20.03.
   city: Lübbenau
-  featured: true
+  featured: false
   id: "0015"
 - name: "Lausitz-Tour: Cottbus"
   url: "/los/"
   date: 02.-03.04.
   city: Cottbus
-  featured: true
+  featured: false
   id: "0014"
 - name: "Lausitz-Tour: Weißwasser"
   url: "/los/"
   date: 23.-24.04.
   city: Weißwasser
-  featured: true
+  featured: false
   id: "0013"
-- name: "Lausitz-Tour: Raddusch"
+- name: "Lausitz-Tour: Domsdorf"
   url: "/los/"
-  date: 21.-02.05.
-  city: Raddusch
+  date: 21.-22.05.
+  city: Domsdorf (Elbe-Elster)
   featured: true
   id: "0012"
 - name: "Lausitz-Tour: Forst"
