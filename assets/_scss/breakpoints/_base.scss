@@ -662,6 +662,16 @@ body:not(.safari){
       height: 300px;
     }
   }
+  &.homeapplyforst{
+    height: 80vh;
+    background: url($baseurl + '/assets/img/static/forst_apply.jpeg') no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    @media only screen and (max-width: 640px) {
+      height: 300px;
+    }
+  }
   &.homeevent{
     height: 80vh;
     background: url($baseurl + '/assets/img/static/TdE_Banner.jpg') no-repeat;
