@@ -37,6 +37,7 @@ exclude:
   - Gemfile.lock
   - commands.txt
   - start_serve.bat
+  - start_serve.bat
   - start_watch.bat
 
 whitelist:
