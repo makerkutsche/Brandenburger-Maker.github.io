@@ -1,3 +1,21 @@
+- name: "Bildung, Bits und Bäume"
+  url: "https://bildung-bits-baeume.org/"
+  date: 30.09 - 01.10.2022
+  city: TU Berlin
+  featured: true
+  id: "0019"
+- name: "Kreative Lausitz"
+  url: "https://skz-telux.de/programm"
+  date: 30.09.2022
+  city: Hafenstube Weißwasser/Oberlausitz
+  featured: true
+  id: "0018"
+- name: "Festival Stuss am Fluss"
+  url: "https://stussamfluss.de"
+  date: 11. - 13.08.2022
+  city: Strombad Cottbus
+  featured: true
+  id: "0017"
 - name: "Lausitz-Tour: Guben"
   url: "/los/"
   date: 05.-06.03.
@@ -26,7 +44,7 @@
   url: "/los/"
   date: 21.-22.05.
   city: Domsdorf (Elbe-Elster)
-  featured: true
+  featured: false
   id: "0012"
 - name: "Lausitz-Tour: Forst"
   url: "/los/"
